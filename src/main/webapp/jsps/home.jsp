@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">I AM GOING TO BE DEVOPS ENGINEER, hoga ki nhi vapas hoja I AM GETTING A GOOD PACKAGE. Marathahalli,Bengaluru,Karnataka,India </h1>
+<h1 align="center">I AM GOING TO BE DEVOPS ENGINEER, hoga ki nhi vapas hoja I AM GETTING A GOOD PACKAGE let see abhimto lode lage h. Marathahalli,Bengaluru,Karnataka,India </h1>
 <h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
